@@ -5,10 +5,13 @@ DnD Discord Bot that would help with searches of a homebrew DnD compain that I p
 Thanks to https://www.dnd5eapi.co/ for providing the basic rules of DnD.
 
 ## To-Do-List
-1. Discord Bot Application
-  1. Setup Discord Bot
-3. Make a connection with dnd5api
-4. Create a SQL query (Need to choose which version of SQL I want to use)
-  1. See if I can make it user intuitive so that friends help me with inputing homebrew rules
-5. Make personal home server project
-  6. Deploy bot
+1. Create a Discord Application
+    1. Setup Discord Bot
+    2. Create Cogs for basic commands
+2. Make connection with DnD5e API
+    1. Set up basic searches for classes, spells, items, etc
+4. Choose a SQL query and choose a database 
+    1. Create database to input homebrew rules and abilites
+    2. Make the discord bot user intuitive for friends to help
+5. Finish my home server
+     1. Deploy the bot
